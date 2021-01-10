@@ -1,0 +1,15 @@
+.idea
+
+build
+cms/.env
+cms/node_modules
+cms/package-lock.json
+
+server/.env
+server/node_modules
+server/storage/logs
+server/package-lock.json
+
+/server/credentials.txt
+server/practice
+node_modules
